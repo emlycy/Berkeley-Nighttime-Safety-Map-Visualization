@@ -1,45 +1,31 @@
-Theft
-Susp. Circ.
-Susp. Person
-Auto Burglary
-Stolen Vehicle
-Grand Theft
-Battery
-Mentally Ill
-Hit & Run Prop.
-Burgalary
-Susp. Vehicle
-Minor Injuries
-Reckless Vehicle
-Suspicoius Vehicle
-Vandalism
-Vehicle Damage
-Missing Person
-Brandishing Weapon
-Robbery
-Person Down
-Call for Help
-Drug Inv.
-Rape
-Assault w/Deadly Weapon
-Hit & Run Injuries
-Person with Gun
-Serious Battery
-Arson
-Cruelty to Animals
-Caustic Chemicals
-Hate Crime
-Bicious Animals
-Carjacking
-Sexual Molest
-Shooting
-Shots at Dwelling
-Theft In-Custody
-Sexual Assault
-Kidnapping
-Res. Robbery
-Prostitution
-Foot Chase
-Bomb Threat
-Explosion
-Major Injuries
+CFS SUSCIR - Susp. Circ.
+CFS SUSPER - Susp. Person
+CFS 459A - Auto Burglary
+CFS 487 - Grand Theft
+CFS 242 - Battery
+CFS 5150 - Mentally Ill
+CFS 459 - Burgalary
+CFS SUSVEH - Susp. Vehicle
+CFS 1196 - Suspicoius Vehicle
+CFS 1057 - Missing Person
+CFS 417 - Brandishing Weapon
+CFS 211 - Robbery
+CFS 1053 - Person Down
+CFS 1067 - Call for Help
+CFS 261 - Rape
+CFS 1194B - Dog Bite
+CFS 245 - Assault w/Deadly Weapon
+CFS 20001 - Hit & Run Injuries
+CFS GUN - Person with Gun
+CFS 243 - Serious Battery
+CFS 244 - Caustic Chemicals
+CFS HATE - Hate Crime
+CFS 1091V - Vicious Animals
+CFS 288 - Sexual Molest
+CFS 1071 - Shooting
+CFS 246 - Shots at Dwelling
+CFS 220 - Sexual Assault
+CFS 207 - Kidnapping
+CFS 212 5 - Res. Robbery
+CFS 647AB - Prostitution
+CFS FOOT - Foot Chase

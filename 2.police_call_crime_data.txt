@@ -1,0 +1,45 @@
+Theft
+Susp. Circ.
+Susp. Person
+Auto Burglary
+Stolen Vehicle
+Grand Theft
+Battery
+Mentally Ill
+Hit & Run Prop.
+Burgalary
+Susp. Vehicle
+Minor Injuries
+Reckless Vehicle
+Suspicoius Vehicle
+Vandalism
+Vehicle Damage
+Missing Person
+Brandishing Weapon
+Robbery
+Person Down
+Call for Help
+Drug Inv.
+Rape
+Assault w/Deadly Weapon
+Hit & Run Injuries
+Person with Gun
+Serious Battery
+Arson
+Cruelty to Animals
+Caustic Chemicals
+Hate Crime
+Bicious Animals
+Carjacking
+Sexual Molest
+Shooting
+Shots at Dwelling
+Theft In-Custody
+Sexual Assault
+Kidnapping
+Res. Robbery
+Prostitution
+Foot Chase
+Bomb Threat
+Explosion
+Major Injuries

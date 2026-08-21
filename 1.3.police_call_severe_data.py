@@ -1,6 +1,6 @@
 import sqlite3
 
-data_txt = "2.police_call_severe_data.txt"
+data_txt = "1.2.police_call_severe_data.txt"
 data_sql = "police_call_raw_data.sqlite"
 
 #read .txt file into a list

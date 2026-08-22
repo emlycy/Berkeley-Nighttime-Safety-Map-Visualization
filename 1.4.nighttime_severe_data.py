@@ -4,7 +4,7 @@ data_sql = "police_call_raw_data.sqlite"
 conn = sqlite3.connect(data_sql)
 curs = conn.cursor()
 
-#create a table for nighttime(9pm-6am) severe calls
+#create a table for nighttime(9pm-3am) severe calls
 curs.execute('DROP TABLE IF EXISTS Night_Severe_Calls')
 
 curs.execute('''
@@ -21,7 +21,7 @@ curs.execute('''
     SELECT id, time, call_type, address
     FROM Severe_Calls
     WHERE CAST(substr(time, instr(time, ' ') + 1, 2) AS INTEGER) >= 21
-       OR CAST(substr(time, instr(time, ' ') + 1, 2) AS INTEGER) < 6
+       OR CAST(substr(time, instr(time, ' ') + 1, 2) AS INTEGER) < 3
 ''')
 
 conn.commit()
